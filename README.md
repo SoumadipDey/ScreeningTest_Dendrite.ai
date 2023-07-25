@@ -44,5 +44,5 @@ extraction as required.
 </p>
 <p align = "center">2. The output when Modified Task Params are used.</p>
 
-<p align = "center">The models are created on the basis of valid and selected algorithms, and their metrics are displayed and saved if required.</p> 
+<p align = "justify">The models are created on the basis of valid and selected algorithms, and their metrics are displayed and saved if required. The algorithms which have not been implemented or the ones which even though they are valid, can not complete fitting for a given set of hyperparameters are discarded. Various feature reduction and imputation techniques are also performed according to the provided parameters in order to create the two preprocessing layers of our Pipelines.</p> 
 

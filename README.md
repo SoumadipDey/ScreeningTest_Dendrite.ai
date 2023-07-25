@@ -26,7 +26,12 @@ extraction as required.
 
 ## Execution Procedure
 
-> Please make sure you have the packages mentioned in the file `requirements.txt` installed, before you execute the `main.py` file. **Use the command `pip install -r requirements.txt`** to do so.
+1. Please make sure you have the packages mentioned in the file `requirements.txt` installed, before you execute the `main.py` file. **Use the command `pip install -r requirements.txt`** to do so.
 
-> It is also suggested to disable warnings while executing the program. **Execute the program file `main.py` using the command `python -W "ignore" main.py`**.
+2. It is also suggested to disable warnings while executing the program. **Execute the program file `main.py` using the command `python -W "ignore" main.py`**.
 
+3. To test the program, make changes in the parameter file stored in the `original_task_params` and `modified_params_for_testing` folders accordingly.
+
+## Outputs
+
+The program gives the following output when the `original_task_params` are used.

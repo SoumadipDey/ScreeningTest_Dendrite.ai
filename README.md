@@ -34,4 +34,15 @@ extraction as required.
 
 ## Outputs
 
-The program gives the following output when the `original_task_params` are used.
+<p align = "center" >
+  <img id = "image_1" src="https://github.com/SoumadipDey/ScreeningTest_Dendrite.ai/blob/3e24a6d18d2cf06ed0aafc4e56aae9068eb038d3/Media/Screenshot_1.JPG" width="500" height = "300"/> </p>
+<p align = "center">1. The output when Original Task Params are used.</p>
+
+
+<p align = "center">
+    <img src="https://github.com/SoumadipDey/ScreeningTest_Dendrite.ai/blob/3e24a6d18d2cf06ed0aafc4e56aae9068eb038d3/Media/Screenshot_2.JPG" width="613" height = "350"/> 
+</p>
+<p align = "center">2. The output when Modified Task Params are used.</p>
+
+<p align = "center">The models are created on the basis of valid and selected algorithms, and their metrics are displayed and saved if required.</p> 
+
